@@ -169,8 +169,9 @@ const delet = document.createElement('div');
   
   li.appendChild(serialDiv);
   li.appendChild(descDiv);
-  li.appendChild(priorityDiv);
   li.appendChild(dateDiv);
+  li.appendChild(priorityDiv);
+  
   li.appendChild(editDiv);
   li.appendChild(doneDiv);
   li.appendChild(delet);
